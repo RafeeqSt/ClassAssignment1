@@ -25,5 +25,6 @@ public class App
 
         //output
         System.out.println("The area is: " + area);
+        System.out.println("Testing Testing 1..2");//MOegammad's Edit
     }
 }

@@ -24,6 +24,6 @@ public class App
         area = Math.PI * Math.pow(radius, 2);
 
         //output
-        System.out.println("The area is: " + area);
+        System.out.println("The area of the circle is: " + area);
     }
 }
